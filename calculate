@@ -1,0 +1,6 @@
+x=float(input("A= "))
+y=int(input("B= "))
+z=int(input("C= "))
+d=1-x
+
+print(40000*x/y+40000*d/z)
